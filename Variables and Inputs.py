@@ -82,9 +82,7 @@ print(f"{x} - {y} =", x-y)
 print(f"{x} * {y} =", x*y)
 print(f"{x} / {y} =", x/y)
 
-#end="", prevent print from creating a new line: 
-
-# Fix the code
+#end="", prevent print from creating a new line:
 print(5, end="")
 print(" + ", end="")
 print(8, end="")
